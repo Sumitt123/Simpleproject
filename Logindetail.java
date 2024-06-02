@@ -1,5 +1,6 @@
 package my_project;
 import java.util.Scanner;
+
 class User extends Banklogin 
 {
 	int bal=5000,amt;
